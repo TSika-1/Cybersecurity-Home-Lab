@@ -1,4 +1,3 @@
-# Cybersecurity-Home-Lab
 # Cybersecurity Home Lab – Microsoft Sentinel SOC
 
 ##  Overview
