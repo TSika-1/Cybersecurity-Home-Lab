@@ -1,0 +1,13 @@
+# Lessons Learned
+
+## What worked well
+- Setting up log forwarding quickly
+- Using KQL to tune rules
+
+## Challenges
+- Understanding Windows Event IDs
+- Filtering out false positives
+
+## Next steps
+- Add automation playbooks
+- Expand detection coverage
