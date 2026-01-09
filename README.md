@@ -12,9 +12,7 @@ This project is a self-directed cybersecurity home lab designed to simulate a SO
 ##  Tools & Technologies
 - Microsoft Sentinel
 - Azure Log Analytics
-- Windows Server (Active Directory)
 - Windows 10/11 Endpoints
-- Sysmon
 - Kusto Query Language (KQL)
 
 ##  Implementation
@@ -25,7 +23,6 @@ This project is a self-directed cybersecurity home lab designed to simulate a SO
 5. Tested detection using simulated attack activity  
 
 ##  Key Capabilities
-- SIEM log ingestion and correlation  
 - Custom threat detection using KQL  
 - Alert investigation and response playbooks  
 
